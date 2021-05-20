@@ -1,4 +1,4 @@
-package _02_AND_OR_and_XOR;
+ package _02_AND_OR_and_XOR;
 
 public class AndOrXor {
 	public static void main(String[] args) {
